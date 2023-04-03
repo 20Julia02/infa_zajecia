@@ -11,4 +11,4 @@ print(suma)
 
 if __name__ == "__main__":  # __main__ przypisywane do modułu pythonowego, __name__ ma inną wartość gdy zaimportowany, inną gdy nie
     # po to by przy imporcie nie wykonywało się to co pod if, wykonanie kodu może być pod tym
-    print("cos tam dopisałam")
+    print("cos tam dopisałam i jeszcze trochu dopisałam")
